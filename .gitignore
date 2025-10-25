@@ -3,3 +3,10 @@
 *.exe
 debug/
 release/
+
+# Служебные файлы Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
